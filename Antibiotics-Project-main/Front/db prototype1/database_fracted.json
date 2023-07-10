@@ -1,0 +1,1900 @@
+[
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 35,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "AMC", "CIP"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 86,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "FOS", "COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "IPM", "GM", "AK", "FRN"],
+    "Intermediate": ["AMC", "CIP"]
+  },
+  {
+    "souche": "Enterobacter sp",
+    "SEXE": "F",
+    "age": 86,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "AMC", "CZ", "CEFO", "CTX", "FOS"],
+    "Sensitive": ["GM", "AK", "CIP", "FRN", "COT"],
+    "Intermediate": ["IPM"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": 1,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "AMC", "FRN", "FOS"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 29,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["AMC", "COT"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 62,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "AMC", "CZ", "CTX", "CIP", "COT"],
+    "Sensitive": ["CEFO", "IPM", "GM", "AK", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 12,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "AMC", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 41,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["/"],
+    "Sensitive": [
+      "AMP",
+      "AMC",
+      "CZ",
+      "CEFO",
+      "CTX",
+      "GM",
+      "CIP",
+      "FRN",
+      "FOS",
+      "COT"
+    ],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "F",
+    "age": 35,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["GM", "FRN", "COT"],
+    "Sensitive": ["AMP", "AMC", "CZ", "CEFO", "CTX", "CIP", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 11,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "FOS"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["FRN"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 7,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "CIP", "COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "FRN", "FOS"],
+    "Intermediate": ["AMC"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 80,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["/"],
+    "Sensitive": [
+      "AMP",
+      "AMC",
+      "CZ",
+      "CEFO",
+      "CTX",
+      "GM",
+      "CIP",
+      "FRN",
+      "FOS",
+      "COT"
+    ],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 72,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "AMC", "FRN", "FOS"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 32,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "AMC", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "FRN", "FOS"],
+    "Intermediate": ["CZ", "CIP"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 34,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["AMC", "CZ"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 76,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "FRN"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FOS", "COT"],
+    "Intermediate": ["AMC", "CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 31,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "AMC", "COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 10,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["/"],
+    "Sensitive": [
+      "AMP",
+      "AMC",
+      "CZ",
+      "CEFO",
+      "CTX",
+      "GM",
+      "CIP",
+      "FRN",
+      "FOS",
+      "COT"
+    ],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 34,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "FRN", "FOS", "COT"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 34,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["AMC", "CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 39,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["COT"],
+    "Sensitive": ["AMP", "AMC", "CZ", "CEFO", "CTX", "GM", "FRN"],
+    "Intermediate": ["CIP", "FOS"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 34,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "FRN", "FOS"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 12,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["/"],
+    "Sensitive": [
+      "AMP",
+      "AMC",
+      "CZ",
+      "CEFO",
+      "CTX",
+      "GM",
+      "CIP",
+      "FRN",
+      "FOS",
+      "COT"
+    ],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 29,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "AMC", "CZ", "CTX"],
+    "Sensitive": ["CEFO", "GM", "AK", "FRN", "FOS", "COT"],
+    "Intermediate": ["IPM", "CIP"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 29,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "AMC", "COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 33,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["AMP", "AMC", "CIP", "COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": "/",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CTX", "IPM", "GM", "AK", "CIP", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 3,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "CZ"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 40,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["/"],
+    "Sensitive": [
+      "AMP",
+      "AMC",
+      "CZ",
+      "CEFO",
+      "CTX",
+      "GM",
+      "CIP",
+      "FRN",
+      "FOS",
+      "COT"
+    ],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 36,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 5,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 63,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "CZ", "CTX", "CIP", "FOS", "COT"],
+    "Sensitive": ["CEFO", "IPM", "GM", "AK", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "M",
+    "age": 50,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "GM", "CIP", "FRN", "COT"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX"],
+    "Intermediate": ["FOS"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 32,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["CIP"],
+    "Sensitive": ["AMP", "AMC", "CZ", "CEFO", "CTX", "GM", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 5,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "CIP", "COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 63,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "CZ", "CTX", "CIP", "FOS", "COT"],
+    "Sensitive": ["CEFO", "IPM", "GM", "AK", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 76,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "GM", "CIP", "COT"],
+    "Sensitive": ["CEFO", "CTX", "FRN", "FOS"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": "4 mois",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 37,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["/"],
+    "Sensitive": [
+      "AMP",
+      "AMC",
+      "CZ",
+      "CEFO",
+      "CTX",
+      "GM",
+      "CIP",
+      "FRN",
+      "FOS",
+      "COT"
+    ],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 75,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["AMC"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 31,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "CIP"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 79,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["CIP"],
+    "Sensitive": ["AMP", "AMC", "CZ", "CEFO", "CTX", "GM", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 58,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 57,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["GM", "COT"],
+    "Sensitive": ["AMP", "AMC", "CZ", "CEFO", "CTX", "FRN", "FOS"],
+    "Intermediate": ["CIP"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 78,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "CZ", "CTX", "COT"],
+    "Sensitive": ["CEFO", "IPM", "GM", "AK", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "F",
+    "age": 30,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "FRN"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FOS", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 41,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 2,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 66,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "COT"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 27,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["/"],
+    "Sensitive": [
+      "AMP",
+      "AMC",
+      "CZ",
+      "CEFO",
+      "CTX",
+      "CIP",
+      "FRN",
+      "FOS",
+      "COT"
+    ],
+    "Intermediate": ["GM"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 73,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 5,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "CZ"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FOS", "COT"],
+    "Intermediate": ["FRN"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 4,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "COT"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 11,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "CIP", "COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 74,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "FRN", "FOS"],
+    "Intermediate": ["CZ", "CIP"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 64,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "FOS"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["FRN"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 30,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "CIP", "FRN", "FOS"],
+    "Intermediate": ["AMC", "GM"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 2,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC", "CZ", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 54,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "CIP", "COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "FRN", "FOS"],
+    "Intermediate": ["AMC"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 10,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["AMP", "AMC"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": "/",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["/"],
+    "Sensitive": ["CTX", "IPM", "GM", "AK", "CIP", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": "/",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["CZ", "CTX"],
+    "Sensitive": ["IPM", "GM", "AK", "CIP"],
+    "Intermediate": ["COT"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": "/",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["CZ"],
+    "Sensitive": ["CTX", "IPM", "AK", "CIP", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": "/",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["CZ", "COT"],
+    "Sensitive": ["CTX", "IPM", "AK", "CIP"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": "/",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["/"],
+    "Sensitive": ["CTX", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": "/",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2023-02",
+    "Resistant": ["COT"],
+    "Sensitive": ["CZ", "CTX", "AK"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 22,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 19,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["AMC", "CZ", "CTX", "CIP", "COT"],
+    "Sensitive": ["CEFO", "GM", "AK", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 29,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 21,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 23,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "CTX", "COT"],
+    "Sensitive": ["CEFO", "GM", "CIP", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 34,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 73,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["FRN"],
+    "Sensitive": ["CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["CZ", "CEFO"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 73,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 72,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 74,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "IPM", "GM", "AK", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 52,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": 1,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "GM", "FRN", "COT"],
+    "Sensitive": ["CEFO", "CTX", "CIP"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 74,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Enterobacter sp",
+    "SEXE": "F",
+    "age": 18,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["AMC", "CZ", "CEFO", "CTX", "GM", "FRN", "COT"],
+    "Sensitive": ["IPM", "AK", "CIP"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 63,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP"],
+    "Sensitive": ["IPM", "AK", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 47,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": 2,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["FRN", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": 1,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["FRN"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 1,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "CTX", "COT"],
+    "Sensitive": ["CEFO", "GM", "CIP", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 28,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 22,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 19,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "F",
+    "age": 30,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "FRN"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 71,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "M",
+    "age": 75,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 7,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 62,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["GM", "COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "CIP", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": 3,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["FRN"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 28,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 3,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CIP"],
+    "Sensitive": ["CEFO", "CTX", "GM", "FRN", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 73,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": 2,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "FRN"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": 57,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["FRN"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 60,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "CIP", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 2,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["FRN"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "F",
+    "age": 22,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "FRN"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 9,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["/"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Proteus vulgaris",
+    "SEXE": "M",
+    "age": 59,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "IPM", "GM", "CIP", "FRN", "COT"],
+    "Sensitive": ["CEFO", "CTX", "AK"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": 2,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["FRN", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": "6 mois",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "FRN", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "M",
+    "age": "4 mois",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["FRN"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": "4 mois",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "GM", "FRN", "COT"],
+    "Sensitive": ["CEFO", "CTX", "CIP"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": "2 mois",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "CTX", "GM", "COT"],
+    "Sensitive": ["CEFO", "CIP", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus vulgaris",
+    "SEXE": "F",
+    "age": 32,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "FRN", "COT"],
+    "Sensitive": ["CTX", "GM", "CIP"],
+    "Intermediate": ["CEFO"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 73,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["CZ", "CTX", "CIP", "COT"],
+    "Sensitive": ["CEFO", "GM", "AK", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "F",
+    "age": "/",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["GM", "COT"],
+    "Sensitive": ["AMC", "CTX", "IPM", "AK"],
+    "Intermediate": ["CZ", "CIP"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": "/",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-01",
+    "Resistant": ["AMP", "AMC", "CZ", "COT"],
+    "Sensitive": ["/"],
+    "Intermediate": ["CTX", "CIP"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 9,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["CZ"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 38,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 79,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["GM"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 22,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["CZ", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 32,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["GM", "COT"],
+    "Sensitive": ["CEFO", "CTX", "CIP", "FRN"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 93,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["CZ", "CTX", "GM", "CIP", "COT"],
+    "Sensitive": ["CEFO", "IPM", "AK", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 8,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 42,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["CZ"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "F",
+    "age": 30,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["CZ", "FRN"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 22,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Enterobacter sp",
+    "SEXE": "F",
+    "age": 28,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["CZ", "CEFO"],
+    "Sensitive": ["CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": "6 mois",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 72,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["CZ", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Citrobacter freundii",
+    "SEXE": "M",
+    "age": 65,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["CZ", "CEFO"],
+    "Sensitive": ["CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 63,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["CIP"],
+    "Sensitive": ["CEFO", "CTX", "GM", "FRN", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 32,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 4,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["/"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 64,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMC", "CZ", "CTX", "COT"],
+    "Sensitive": ["CEFO", "IPM", "GM", "AK", "CIP", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 4,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["CZ"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 7,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMC", "CZ", "CTX", "COT"],
+    "Sensitive": ["CEFO", "IPM", "GM", "AK", "CIP", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "F",
+    "age": 20,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["CZ", "FRN"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["AMC"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 34,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["/"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 7,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMC", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 41,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["/"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": "11 jrs",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["FRN"],
+    "Sensitive": ["AMP", "AMC", "CEFO", "CTX", "GM", "CIP", "FOS", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 87,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMP", "AMC", "CZ", "CEFO", "CTX", "CIP"],
+    "Sensitive": ["IPM", "GM", "AK", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 55,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMP", "AMC", "CZ"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 70,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMP", "AMC", "CZ", "FRN"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 88,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMP"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["AMC"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 5,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMP", "AMC", "CZ"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 84,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMP", "COT"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 68,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMP", "AMC", "CIP"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": "/",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMP"],
+    "Sensitive": ["CZ", "CTX", "IPM", "AK", "CIP", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": "/",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMP", "AMC"],
+    "Sensitive": ["CTX", "IPM", "AK", "CIP", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": "/",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMP", "AMC", "CZ", "CTX", "IPM", "CIP", "COT"],
+    "Sensitive": ["/"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus vulgaris",
+    "SEXE": "M",
+    "age": 59,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-02",
+    "Resistant": ["AMP", "AMC", "CZ", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Sensitive": ["CEFO", "CTX", "IPM", "AK"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "F",
+    "age": 30,
+    "d\u00e9signation": "Abc\u00e9s Vaginale",
+    "date": "2022-02",
+    "Resistant": ["FRN"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Enterobacter sp",
+    "SEXE": "M",
+    "age": 51,
+    "d\u00e9signation": "Oreille",
+    "date": "2022-02",
+    "Resistant": ["AMC", "CZ", "CEFO"],
+    "Sensitive": ["CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["FRN"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 40,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["/"],
+    "Sensitive": [
+      "AMP",
+      "AMC",
+      "CZ",
+      "CEFO",
+      "CTX",
+      "GM",
+      "CIP",
+      "FRN",
+      "FOS",
+      "COT"
+    ],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 28,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMC"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": 4,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "CZ", "FRN"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 19,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "CZ", "CIP", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 2,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "CZ", "CTX", "GM", "COT"],
+    "Sensitive": ["CEFO", "IPM", "AK", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": "7 mois",
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "CZ", "GM", "COT"],
+    "Sensitive": ["CEFO", "CTX", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 22,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMC", "CZ", "CTX", "GM", "FRN", "FOS"],
+    "Sensitive": ["CEFO", "IPM", "AK", "CIP"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 6,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["/"],
+    "Sensitive": [
+      "AMP",
+      "AMC",
+      "CZ",
+      "CEFO",
+      "CTX",
+      "GM",
+      "CIP",
+      "FRN",
+      "FOS",
+      "COT"
+    ],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 5,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "COT"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 9,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "CZ", "CEFO"],
+    "Sensitive": ["IPM", "GM", "AK", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["CTX"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 40,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["AMC"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 23,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "M",
+    "age": 71,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMC", "CZ", "FRN", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 59,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "FOS"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["FRN"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 39,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "CZ", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 38,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP"],
+    "Sensitive": ["AMC", "CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "FOS", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 93,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "CZ", "CTX", "GM", "CIP", "COT"],
+    "Sensitive": ["CEFO", "IPM", "AK", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 8,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "CZ", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 41,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "FOS"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["FRN"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 67,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "FOS"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "F",
+    "age": 55,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["FRN"],
+    "Sensitive": ["AMC", "CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Proteus mirabilis",
+    "SEXE": "F",
+    "age": 34,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["FRN", "FOS"],
+    "Sensitive": ["AMP", "AMC", "CEFO", "CTX", "GM", "CIP", "COT"],
+    "Intermediate": ["CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "M",
+    "age": 88,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMC", "CZ", "CTX", "GM", "CIP", "COT"],
+    "Sensitive": ["CEFO", "IPM", "AK", "FRN"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 28,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "FOS"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["AMC"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 26,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "FRN", "FOS", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP"],
+    "Intermediate": ["AMC", "CZ"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 28,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["COT"],
+    "Sensitive": ["CZ", "CEFO", "CTX", "GM", "CIP", "FRN"],
+    "Intermediate": ["AMC"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 63,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "CZ", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Klebsiella pneumoniae",
+    "SEXE": "F",
+    "age": 32,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "CZ", "FOS"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "COT"],
+    "Intermediate": ["/"]
+  },
+  {
+    "souche": "Escherichia coli",
+    "SEXE": "F",
+    "age": 15,
+    "d\u00e9signation": "E.C.B.U",
+    "date": "2022-03",
+    "Resistant": ["AMP", "AMC", "COT"],
+    "Sensitive": ["CEFO", "CTX", "GM", "CIP", "FRN", "FOS"],
+    "Intermediate": ["CZ"]
+  }
+]

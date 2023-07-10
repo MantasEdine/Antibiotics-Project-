@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+/* CSS rules that use the regular weight (400) of the Poppins font */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    z-index: 999;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 200px;
+    transition: 0.5s ease;
+}
+
+header .brand{
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+header .navigation{
+    position: relative;
+}
+
+header .navigation .navigation-items a{
+    position: relative;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 30px;
+    transition: 0.3s ease;
+}
+
+header .navigation .navigation-items a::before {
+    content: "";
+    position: absolute;
+    background: #fff;
+    width: 0;
+    height: 3px;
+    top: 100%;
+    bottom: 0;
+    left: 0;
+    transition: width 0.3s ease;
+  }
+
+
+header .navigation .navigation-items a:hover:before{
+    width: 100%;
+}
+
+section{
+    padding: 100px 200px;
+}
+
+th {
+    color: #fff;
+}
+
+.home{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background: #2696E9;
+}
+
+
+.home:before{
+    z-index: 777;
+    content: "";
+    position: absolute;
+    background: rgba(3, 96, 251, 0.3);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+
+.home .content{
+    z-index: 888;
+    color: #fff;
+    width: 70%;
+    margin-top: 50px;
+}
+
+.home .container{
+    z-index: 888;
+}
+
+.home .content h1{
+    font-size: 4em;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 75px;
+    margin-bottom: 40px;
+}
+
+
+
+/* .home .content h1 span{
+    font-size: 1.2em;
+    font-weight: 600;
+} */
+
+/* .home .content p{
+    margin-bottom: 65px;
+} */
+
+
+
+
+
+
+
+
+.home video{
+    z-index: 000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: rotate(180deg);
+    /* margin-right: 50px; */
+}
+
+
+
+.footer {
+    position: fixed; /* Use "fixed" instead of "absolute" to keep the footer centered while scrolling */
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin-left: 50px;
+}
+
+.bold-text {
+    font-weight: bolder;
+}
+
+.container {
+    border: 1px solid rgba(0, 0, 0, .11);
+    /* padding: 10px; */
+    width: 120%;
+}
+
+.controls-item {
+    display: inline-block;
+}
+
+.btn {
+    margin: 1px;
+}
+
+table {
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+
+

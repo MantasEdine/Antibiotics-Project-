@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="database.css" />
+    <script src="jquery.js"></script>
+
+    <script src="database.js" defer></script>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
+    />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <video
+        class="video-slide"
+        src="../videos/1.mp4"
+        autoplay
+        muted
+        loop
+      ></video>
+      <!-- <h1>Database</h1> -->
+      <div class="smaller-container">
+        <div class="header">
+          <div class="search-section">
+            <div class="search-bar">
+              <span class="material-symbols-outlined btn-info"  >
+                menu_open
+              </span>
+              <div class="stick-search-bar">
+                <span class="material-symbols-outlined search"> search </span>
+                <input
+                  type="search"
+                  placeholder="Search...."
+                  class="search-input"
+                  name="souche"
+                />
+              </div>
+              <span class="material-symbols-outlined infos">
+                info
+                </span>
+            </div>
+            <div class="btns">
+              <div class="btn">
+                <span class="material-symbols-outlined add"> add </span>Add
+              </div>
+              <div class="btn">
+                <input type="file" id="file-input" />
+                <label for="file-input">
+                  <span class="material-symbols-outlined download">download</span> Import
+                </label>
+              </div>
+            </div>
+          </div>
+          <div class="titles">
+            <div class="sub-title">
+              #
+              <span class="mini">↕️</span>
+            </div>
+            <div class="sub-title">
+              SOUCHE
+              <span class="mini">↕️</span>
+            </div>
+            <div class="sub-title">SEXE</div>
+            <div class="sub-title">
+              AGE
+              <span class="mini">↕️</span>
+            </div>
+            <div class="sub-title">DESIGNATION</div>
+            <div class="sub-title">DATE</div>
+            <div class="sub-title">RESISTANCES</div>
+            <div class="sub-title">SENSITIVES</div>
+            <div class="sub-title">INTERMIDATES</div>
+          </div>
+          
+        </div>
+        <div class="main">
+          
+          <div class="Container-Adding-Data-Section">
+            <div class="close-tab-bar">
+              <div><h4>Data Adding</h4>
+              <span>Please make sure to insert abbriviations and not the complete antibiotic name</span></div>
+              <span class="material-symbols-outlined close-tab">
+                cancel_presentation
+              </span>
+            </div>
+           <div class="Container-Adding-Data-Section-content">
+            <div class="first-four-inputs">
+              <form action="" class="adaptive-form"><label for="">Strain</label>
+              <input type="text" placeholder="Please fill in" class="dataAdding-input"></form>
+              <form action="" class="adaptive-form"><label for="">Date</label>
+                <input type="date" placeholder="Please fill in" class="dataAdding-input"></form>
+                <form action="" class="adaptive-form"><label for="">Age</label>
+                  <input type="text" placeholder="Please fill in" class="dataAdding-input"></form>
+                  <form action="" class="adaptive-form"><label for="">Designation</label>
+                    <input type="text" placeholder="Please fill in" class="dataAdding-input"></form>
+            </div>
+            <div class="secondary-three-inputs"> <form action="" class="adaptive-form"><label for="">Resistances</label>
+              <input type="text"  placeholder="Please fill in" class="dataAdding-input"></form>
+              <form action="" class="adaptive-form"><label for="">Sensitives</label>
+                <input type="text"  placeholder="Please fill in" class="dataAdding-input"></form>
+                <form action="" class="adaptive-form"><label for="">Intermediates</label>
+                  <input type="text"  placeholder="Please fill in" class="dataAdding-input"></form></div>
+
+            <div class="adding-exiting-buttons">
+              <button class="cancel-btn">Cancel</button><button class="adding-btn">Add</button>
+            </div>
+
+           </div>
+          </div>
+            
+          </div>
+          <div class="overlay"></div>
+          <div class="new-screen">
+            <div class="new-screen-search-bar">
+             <div class="uppser-div"> <input
+              type="search"
+              placeholder="Search...."
+              class="search-input-new-screen"
+             
+            />
+            <span class="material-symbols-outlined search-new-sc"> search </span>
+            <span class="material-symbols-outlined close-tab-AntiBAr">
+              cancel_presentation
+            </span></div>
+              <div class="new-screen-titles">
+          <span class="souche">ABBRIVATION</span><span class="sex">STRAIN</span>
+            </div>
+            
+              </div>
+              <div class="new-screen-data-tab">
+                <span class="grid-item padding">AMP</span>
+                  <span class="padding">AMPICLINE</span>
+                  <span class="grid-item padding">CIP</span>
+                  <span class="padding">CIPROFLOXACINE</span>
+                  <span class="grid-item padding">COT</span>
+                  <span class="padding">THRIMETHOPRIME</span>
+                  <span class="grid-item padding">AMC</span>
+                  <span class="padding">AMOXYCILLINE +CLAVULANIQUE (AMC)</span>
+                  <span class="grid-item padding">FUR</span>
+                  <span class="padding">FURANES</span>
+                  <span class="grid-item padding">CZ</span>
+                  <span class="padding">CEFAZOLINE</span>
+                  <span class="grid-item padding">GM</span>
+                  <span class="padding">GENTAMICINE</span>
+                  <span class="grid-item padding">FOS</span>
+                  <span class="padding">FOSFOMYCINE</span>
+                  <span class="grid-item padding">CTX</span>
+                  <span class="padding">CEFOTAXIME</span>
+                  <span class=" padding">IPM</span>
+                  <span class="grid-item padding">IMIPENEME</span>
+                  <span class="grid-item padding">AK</span>
+                  <span class="padding">AMIKACINE</span>
+                 
+              </div>
+              <footer>
+                <div class="bottom">
+                
+                </div>
+              </footer>
+            </div>
+         <div class="bottom-container"> <div class="element-number">
+          <span> <strong style="color: blue;">1</strong>-10 of 180</span>
+        </div>
+        <div class="pour-parcourir-les-pages">
+<span>Rows per page : <strong style="color: blue;">10</strong></span>
+<div class="buttons">
+<button class="switch-btn-left">&lt;</button>
+<span id="page-count"><strong style="color: blue;">1</strong>/10</span>
+<button class='switch-btn-right'>></button>
+</div>
+<!-- Adding Data -->
+
+
+        </div></div>
+        </div>
+        <footer></footer>
+      </div>
+    </div>
+  </body>
+</html>

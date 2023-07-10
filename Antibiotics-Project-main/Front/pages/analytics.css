@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+
+.container {
+  width: 100%;
+  position: relative;
+  background: rgba(3, 96, 251, 0.15);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background: linear-gradient(to right, rgba(0, 90, 80, 0.5), transparent);
+    background: linear-gradient(to right, black, transparent); */
+}
+.video-slide {
+  z-index: -1;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotateY(180deg);
+  object-fit: cover;
+}
+h1 {
+  color: aliceblue;
+  position: absolute !important;
+  top: 1rem !important;
+  left: 3.9rem !important;
+  font-size: 4rem !important;
+}
+.infos {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+.Antibiotics {
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #fff;
+  border-bottom-left-radius: 70px;
+  border-bottom-right-radius: 70px;
+  border-top-right-radius: 70px;
+  border-top-left-radius: 70px;
+  padding: 1rem 6rem !important;
+}
+.strains {
+  display: flex !important;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #fff;
+  border-bottom-left-radius: 70px;
+  border-bottom-right-radius: 70px;
+  border-top-right-radius: 70px;
+  border-top-left-radius: 70px;
+  padding: 1rem 6rem !important;
+}
+.Antibiotics {
+  display: flex !important;
+  flex-direction: column;
+}
+span {
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.tall {
+  display: flex !important;
+  gap: 3rem;
+}
+.directe1 {
+  display: flex !important;
+  flex-direction: column;
+}
+.directe2 {
+  display: flex !important;
+  flex-direction: column;
+}
+.test {
+  position: absolute;
+  font-size: 0.001rem;
+  top: 18rem;
+}
+.test1 {
+  position: absolute;
+  font-size: 0.001rem;
+  top: 33rem;
+}

@@ -1,0 +1,400 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+/* CSS rules that use the regular weight (400) of the Poppins font */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+header {
+  z-index: 999;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 200px;
+  transition: 0.5s ease;
+}
+
+header .brand {
+  color: #fff;
+  font-size: 1.5em;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+header .navigation {
+  position: relative;
+}
+
+header .navigation .navigation-items a {
+  position: relative;
+  color: #fff;
+  font-size: 1em;
+  font-weight: 500;
+  text-decoration: none;
+  margin-left: 30px;
+  transition: 0.3s ease;
+}
+
+header .navigation .navigation-items a::before {
+  content: "";
+  position: absolute;
+  background: #fff;
+  width: 0;
+  height: 3px;
+  top: 100%;
+  bottom: 0;
+  left: 0;
+  transition: width 0.3s ease;
+}
+
+header .navigation .navigation-items a:hover:before {
+  width: 100%;
+}
+
+section {
+  padding: 100px 200px;
+}
+
+.home {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background: rgba(3, 96, 251, 0.3);
+}
+
+.home:before {
+  z-index: 777;
+  content: "";
+  position: absolute;
+  /* background: rgba(0, 0, 0, 0.3); */
+  background: rgba(3, 96, 251, 0.3);
+  background: linear-gradient(to right, black, transparent);
+  /* background: rgba(0, 161, 81, 0.3); */
+  /* background: rgba(0, 158, 158, 0.3); */
+  /* background: rgba(126, 48, 214, 0.3); */
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+/* .home:before{
+    z-index: 777;
+    content: "";
+    position: absolute;
+    background: rgba(3, 96, 251, 0.3);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.home:before{
+    z-index: 777;
+    content: "";
+    position: absolute;
+    background: rgba(3, 96, 251, 0.3);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+} */
+
+.home .content {
+  z-index: 888;
+  color: #fff;
+  width: 70%;
+  margin-top: 50px;
+  display: none;
+}
+
+.home .content.active {
+  display: block;
+}
+
+.home .content h1 {
+  font-size: 4em;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  line-height: 75px;
+  margin-bottom: 40px;
+}
+
+.home .content h1 span {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+.home .content p {
+  margin-bottom: 65px;
+}
+
+.home .content a {
+  background: #fff;
+  padding: 15px 35px;
+  color: #1680ac;
+  font-size: 1.1em;
+  font-weight: 500;
+  text-decoration: none;
+  border-radius: 2px;
+}
+
+.home .content button {
+  background: #0000a3;
+  padding: 0.5rem 2.5rem;
+  color: aliceblue;
+  font-size: 0.9em;
+  font-weight: 500;
+  text-decoration: none;
+  border-radius: 10px;
+  border: none;
+  margin-left: 2rem;
+  transition: transform 0.2s ease;
+}
+.home .content button:hover {
+  cursor: pointer;
+  padding: 0.8rem 2.9rem;
+}
+.home .content button:active {
+  transform: scale(0.95);
+}
+
+.home .media-icons {
+  z-index: 888;
+  position: absolute;
+  right: 30px;
+  display: flex;
+  flex-direction: column;
+  transform: 0.5s ease;
+}
+
+.home .media-icons a {
+  color: #fff;
+  font-size: 1.6em;
+  transition: 0.3 ease;
+}
+
+.home .media-icons a:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.home .media-icons a:hover {
+  transform: scale(1.3);
+}
+
+@media (max-width: 1040px) {
+  header {
+    padding: 12px 20px;
+  }
+
+  section {
+    padding: 100px 20px;
+  }
+
+  .home .media-icons {
+    right: 15px;
+  }
+
+  header .navigation {
+    display: none;
+  }
+}
+
+.home video {
+  z-index: 000;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: rotate(180deg);
+  /* margin-right: 50px; */
+}
+
+.auto-type::after {
+  content: "|";
+  display: inline-block;
+  animation: blink 0.9s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.footer {
+  position: fixed; /* Use "fixed" instead of "absolute" to keep the footer centered while scrolling */
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  margin-left: 50px;
+}
+
+.bold-text {
+  font-weight: bolder;
+}
+
+.slider-navigation {
+  z-index: 888;
+  position: relative;
+  display: flex; /* Change to flex */
+  justify-content: center;
+  align-items: center;
+  transform: translateY(80px);
+  margin-bottom: 12px;
+  margin-left: 55px;
+
+  /* position: absolute; position as absolute */
+  /* bottom: 20px; adjust position as needed */
+  /* left: 50%; adjust position as needed */
+}
+
+.slider-navigation .nav-btn {
+  width: 12px;
+  height: 12px;
+  background: #fff;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 0 2px rgba(255, 255, 255, 0.5);
+  transition: 0.3s ease;
+  margin-right: 22px; /* Add appropriate margin right value */
+}
+
+.slider-navigation .nav-btn:hover {
+  transform: scale(1.2);
+}
+
+.slider-navigation .nav-btn.active {
+  background: #83d2ff;
+}
+
+/* .video-slide{
+    position: absolute;
+    width: 100%;
+    clip-path: circle(0% at 0 50%);
+}
+
+.video-slide.active{
+    clip-path: circle(150% at 0 50%);
+    transition: 2s ease;
+    transition-property: clip-path;
+} */
+
+.pc1 {
+  opacity: 1;
+  transition: opacity 0.5s linear;
+}
+
+.pc1.hide {
+  opacity: 0;
+}
+
+.content {
+  opacity: 0; /* Set initial opacity to 0 */
+  transition: opacity 0.8s ease-in-out; /* Add transition effect */
+}
+
+.content.active {
+  transition: opacity 0.8s ease-in-out;
+  opacity: 1; /* Set opacity to 1 for active content */
+}
+
+#menu_intro {
+  opacity: 0;
+}
+
+#menu_activated {
+  transition: opacity 0.8s ease-in-out;
+  opacity: 1;
+}
+
+#about_intro {
+  opacity: 0;
+}
+
+#about_activated {
+  transition: opacity 0.8s ease-in-out;
+  opacity: 1;
+}
+
+.popup-container {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+
+/* Style for popup box */
+.popup-box {
+  max-width: 80%; /* Update max-width to 80% */
+  background-color: #fff;
+  padding: 20px;
+  margin: 100px auto;
+  padding-top: 10px;
+  /* text-align: center;
+    border-radius: 5px; */
+}
+
+/* Style for close button */
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+.privacy {
+  width: 100%; /* Update width to 80% */
+  max-width: 1200px;
+  margin: 0 auto;
+
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  overflow-y: scroll; /* Add scrollbar for vertical overflow */
+  height: 70vh; /* Update height to 70% of viewport height */
+  transition: opacity 0.8s ease-in-out; /* Add transition for opacity property */
+  opacity: 1;
+}
+
+.policy-button {
+  position: relative;
+  background: black;
+  bottom: -10px;
+  right: -72%;
+  padding: 15px 35px;
+  color: #fff;
+  font-size: 1.1em;
+  font-weight: 500;
+  text-decoration: none;
+  border-radius: 2px;
+  border: none;
+  transition: transform 0.2s ease;
+  transform: translateX(100%); /* Add this to adjust button position */
+}
