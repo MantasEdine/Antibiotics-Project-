@@ -1,5 +1,5 @@
 # Antiotics
-.....
+
 # Bacteria Resistance Tracker
 
 Welcome to the Bacteria Resistance Tracker, a revolutionary website that combines the power of Artificial Intelligence, Databases, and Data Analytics to track bacteria resistance towards antibiotics. Our platform aims to empower healthcare professionals, researchers, and policymakers with cutting-edge tools to make data-driven decisions and stay ahead in the fight against bacteria resistance. Join us in our mission to inspire change and safeguard the effectiveness of antibiotics for generations to come. Together, we can make a meaningful impact and shape the future of healthcare.
